@@ -251,7 +251,9 @@
 	}
 }
 @media (max-width:600px){
-	
+	.text-center iframe {
+		width: 100%;
+	}
 }
 @media (max-width:575px){
 	.top_menu {
