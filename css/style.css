@@ -89,6 +89,11 @@ button:focus {
   padding-left: 0px;
   padding-right: 0px; }
 
+.p_footer{
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
 @media (min-width: 1200px) {
   .container {
     max-width: 1170px; } }

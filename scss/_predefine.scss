@@ -33,10 +33,9 @@ button:focus{
 	box-shadow: none;
 }
 
-// increase or decrease for footer height.
 .p_120{
-	padding-top: 60px;
-	padding-bottom: 60px;
+	padding-top: 120px;
+	padding-bottom: 120px;
 }
 .pad_top{
 	padding-top: 120px;
@@ -51,6 +50,11 @@ button:focus{
 	padding-left: 0px;
 	padding-right: 0px;
 }
+.p_footer{
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+
 .container{
     @media(min-width:1200px){
         max-width: 1170px;
